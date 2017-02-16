@@ -4,7 +4,7 @@
 
 # How to
 
-Run: `ruby main.rb`
+Run: `ruby main.rb`  
 Test: `rake`
 
 # Challenge
